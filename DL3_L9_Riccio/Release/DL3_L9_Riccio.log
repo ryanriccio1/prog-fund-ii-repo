@@ -1,0 +1,13 @@
+﻿  DL3_L9_Riccio.cpp
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L9_Riccio\DL3_L9_Riccio.cpp(73,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L9_Riccio\DL3_L9_Riccio.cpp(87,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L9_Riccio\DL3_L9_Riccio.cpp(99,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L9_Riccio\DL3_L9_Riccio.cpp(147,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L9_Riccio\DL3_L9_Riccio.cpp(215,49): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L9_Riccio\DL3_L9_Riccio.cpp(208,15): warning C4101: 'a': unreferenced local variable
+  Generating code
+  5 of 101 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DL3_L9_Riccio.vcxproj -> C:\Users\rshar\Desktop\Projects\School\COSC-1337\Release\DL3_L9_Riccio.exe

@@ -1,0 +1,7 @@
+Medium   Speed
+Air       1100
+Water     4900
+Steel    16400
+Copper    7500
+Nylon     1150
+Iron      8250

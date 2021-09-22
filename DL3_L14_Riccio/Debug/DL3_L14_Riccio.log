@@ -1,0 +1,4 @@
+﻿  DL3_L14_Riccio.cpp
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L14_Riccio\DL3_L14_Riccio.cpp(103): warning C4715: 'add2_recurse': not all control paths return a value
+C:\Users\rshar\Desktop\Projects\School\COSC-1337\DL3_L14_Riccio\DL3_L14_Riccio.cpp(234): warning C4717: 'infinite_recursion': recursive on all control paths, function will cause runtime stack overflow
+  DL3_L14_Riccio.vcxproj -> C:\Users\rshar\Desktop\Projects\School\COSC-1337\Debug\DL3_L14_Riccio.exe
